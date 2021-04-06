@@ -15,7 +15,7 @@ GUI application. These controls are commonly called widgets. There are currently
  > click on file above < choose scientific calculator as shown below :
 ![](pic/c1.png)
 
-### 4. That's how scientific calculator will look like:
+### 4. Final look of scientific calculator :
 ![](pic/d1.png)
 
 ### 5. Exit
